@@ -7,7 +7,7 @@ Frontend Developer
 I have been learning web development for over 3 years. I enjoy working with Next.JS and building cool projects!
 
 *   🌍  I'm based in Phoenix
-*   🖥️  See my portfolio at [MyPortfolio][(http://angellportfolio.netlify.app/)](https://tangell.dev/)
+*   🖥️  See my portfolio at [MyPortfolio](https://tangell.dev/)
 *   ✉️  You can contact me at [tangellaz@gmail.com](mailto:tangellaz@gmail.com)
 *   🧠  I'm learning DS&A
 *   🤝  I'm open to collaborating on projects
