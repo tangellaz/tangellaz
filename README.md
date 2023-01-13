@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tyler Angell
+Hi 👋 My name is Tyler Angell
 ====================================================================================================================================
 
-Frontend Developer
+Web Developer
 ------------------
 
 I have been learning web development for over 3 years. I enjoy working with Next.JS and building cool projects!
